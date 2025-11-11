@@ -5,14 +5,11 @@ import java.util.List;
 
 /*
  * PADRAO GRASP APLICADO: Creator
- * 
  * Qual padrao foi utilizado?
  * Creator
- * 
  * Em qual classe/metodo foi aplicado?
  * Classe CarrinhoDeCompras
  * Metodo adicionarItem()
- * 
  * Por que essa escolha atende ao principio GRASP?
  * A classe CarrinhoDeCompras contem e agrega objetos da classe Item.
  * Ela possui os dados necessarios (produto e quantidade) para criar um Item.
